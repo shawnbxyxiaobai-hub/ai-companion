@@ -1,1 +1,12 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+python-multipart==0.0.6
+apscheduler==3.10.4
 
+# AI相关 (可选)
+# openai==1.10.0
+# langchain==0.1.4
+
+# 向量数据库 (可选)
+# qdrant-client==1.7.0
